@@ -10,5 +10,5 @@
 ### How to Run
 - Download ConnectedGraph.m, defender_chk.m, adversary_chk.m, and CogSec_01.m
 - adversary_chk.m is for Lemma 1
-- defender_chk.m is or Theorem 1
+- defender_chk.m is for Theorem 1
 - To get an experiment, run CogSec_01.m, which will call adversary_chk.m and defender_chk.m in the computation.
